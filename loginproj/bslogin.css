@@ -1,0 +1,82 @@
+body{
+    background-image:url(/proj1/projimg/deeksha-pahariya-PKJLZul_bUg-unsplash.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    height: 100%;
+    overflow: hidden;
+
+    width: 80%;
+}
+.container{
+    width: 80%;
+    margin: 0 auto;
+
+}
+
+
+ 
+
+.email{
+    /* border: 5px solid green; */
+    display:flex;
+}
+.password{
+    /* border: 5px solid yellow; */
+    display:flex;
+}
+
+.remember{
+    /* border: 5px solid black; */
+    display:flex;     
+}
+.signin{
+     /* border: 5px solid red; */
+    display:flex;
+    width: 91%; 
+    position: relative;
+    top: -34px;
+    left: -6px;
+
+    
+}
+.loginform{
+    /* border: 5px solid rgb(0, 17, 255); */
+   background-color:rgba(137, 47, 222, 0.25);
+   
+   width: 30%;
+   height: auto;
+   margin: 7% auto;
+   padding: 25px 10px;
+   box-shadow: 15px 10px 20px rgb(57, 83, 210);
+   position: fixed;
+   top:50px ;
+   right: 200px;
+   
+}
+.form-control{
+    /* border: 5px solid black; */
+    margin: 10px 23px;
+    width: 130%;
+    border-bottom: 1px solid #fff;
+    padding-top: 10px;
+    padding-bottom: 5px;
+    background: transparent;
+    position: relative;
+    top: 6px;
+    left: 40px;
+}
+
+
+#forgetpass{
+    border: 5px solid aqua;
+    display: inline;
+    position: relative;
+    left: 100px;
+    top: 190px;
+    right: 120px;
+}
+
+
+
